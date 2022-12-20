@@ -9,6 +9,7 @@ public class Main {
         bird.eat();
         Cat cat = new Cat();
         cat.eat();
+        cat.fff();
         bird.ggg();
-   }
+    }
 }
