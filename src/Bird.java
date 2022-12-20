@@ -3,4 +3,6 @@ public class Bird extends Animal{
     public void eat() {
         System.out.println("Птичка !!!!");
     }
-}
+    publuc void ggg() {
+        System.out.println("Птичка. dffsfffdfdfdffdfdf !!!!");
+} 
