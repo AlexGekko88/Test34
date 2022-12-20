@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8856b93e-f32f-422f-a8b6-1660442d52ab" name="Changes" comment="Выполнил ДЗ1">
+    <list default="true" id="8856b93e-f32f-422f-a8b6-1660442d52ab" name="Changes" comment="Внес изменения">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bird.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671471204110</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Внес изменения">
+      <created>1671546203205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671546203205</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +133,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнил ДЗ1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнил ДЗ1" />
+    <MESSAGE value="Внес изменения" />
+    <option name="LAST_COMMIT_MESSAGE" value="Внес изменения" />
   </component>
 </project>

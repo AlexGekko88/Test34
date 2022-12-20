@@ -10,6 +10,5 @@ public class Main {
         Cat cat = new Cat();
         cat.eat();
         bird.ggg();
-
    }
 }
