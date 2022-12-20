@@ -1,5 +1,6 @@
-public class Cat {
-    Cat cat = new Cat();
-    Cat cat2 = new Cat();
-
+public class Cat extends Animal {
+    @Override
+    public void eat() {
+        System.out.println("Кошка!!!");
+    }
 }
